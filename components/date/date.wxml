@@ -1,0 +1,8 @@
+ <scroll-view scroll-x="true" class="box">
+    <view class='smart_box'>
+        <block wx:for="{{dayList}}">
+            <view class="date selected" wx:if="{{index == id}}" data-id="{{index}}" bindtap="getId" data-day="{{item}}">{{item}}</view>
+            <view class="date" wx:if="{{index != id}}" data-id="{{index}}" bindtap="getId" data-day="{{item}}">{{item}}</view>
+        </block>
+    </view>
+  </scroll-view>
