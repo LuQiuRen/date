@@ -15,6 +15,7 @@
 3、对应wxml页面引入:  
 
 <date day="18" bindtap="click">  
+    
 </date>  
 
 属性说明：  
