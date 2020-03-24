@@ -1,6 +1,6 @@
 # date
 微信小程序预约日期，未来n天日期+星期提醒组件  
-![image](https://github.com/LuQiuRen/date/blob/master/show1.png?raw=true)  
+![image](https://github.com/LuQiuRen/date/blob/master/show1.png?raw=true)
 ![image](https://github.com/LuQiuRen/date/blob/master/show.jpg?raw=true)  
 引入组件：  
 1、下载源文件至本地，把components/date移至项目根目录  
