@@ -12,7 +12,7 @@
   "navigationBarTitleText": "门店预约"  
 }  
 3、对应wxml页面引入:  
-<date day="18" bindtap="click"></date>  
+<date day="18" bindtap="click"></date>
 属性说明：  
 day:未来n天  
 bindtap:点击事件，返回月+日+星期  
